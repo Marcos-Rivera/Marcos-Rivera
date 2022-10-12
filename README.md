@@ -1,7 +1,5 @@
 - Hi, I’m @Marcos-Rivera
-- 👀 I’m interested in UI design and front end development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on something interesting
+- UI | Front end development
 - 📫 Email: youefex@proton.me
 
 <!---
